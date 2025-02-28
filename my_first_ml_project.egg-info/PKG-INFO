@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: my_first_ml_project
+Version: 0.1
+Author: arjun
+Author-email: arjun569@gmail.com
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: scikit-learn
+Requires-Dist: matplotlib
